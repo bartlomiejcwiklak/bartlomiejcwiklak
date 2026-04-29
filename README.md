@@ -1,16 +1,14 @@
-## Hi there 👋
+about
 
-<!--
-**bartlomiejcwiklak/bartlomiejcwiklak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- studying comp sci @ IFE Lodz University of Technology
+- freelance graphic and layout designer
+- former video editor
+- hobbyist music producer
+- more at [my website](https://ohhbaro.neocities.org/)
 
-Here are some ideas to get you started:
+projects worth checking out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [idme](https://bartlomiejcwiklak.github.io/IDME/) is a song guessing game
+- [beatbuild](https://bartlomiejcwiklak.github.io/beatbuild/) is an incredibox inspired loop based music maker
+- [beatclick](https://bartlomiejcwiklak.github.io/beatclick/) is a simple browser drum-grid sequencer
+- [Clipless](https://github.com/bartlomiejcwiklak/Clipless) is a Windows videoclip creator and manager
