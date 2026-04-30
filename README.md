@@ -4,7 +4,7 @@ about
 - freelance graphic and layout designer
 - former video editor
 - hobbyist music producer
-- more at [my website](https://ohhbaro.neocities.org/)
+- more at [my website](https://bartlomiejcwiklak.com/)
 
 projects worth checking out
 
